@@ -130,19 +130,19 @@ router.get('/', async (req, res) => {
 ______________________________
 *🎉 SESSION GENERATED SUCCESSFULLY! ✅*
 
-*💪 Empowering Your Experience with Silva MD Bot*
+*💪 Empowering Your Experience with PRINCE MD Bot*
 
 *🌟 Show your support by giving our repo a star! 🌟*
-🔗 https://github.com/SilvaTechB/silva-md-bot
+🔗 'https://github.com/PRINCETECH20/Prince-bot-md
 
 *💭 Need help? Join our support groups:*
 📢 💬
-https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v
+https://whatsapp.com/channel/0029VbAqgXx6mYPK6IVaY71V
 
 *📚 Learn & Explore More with Tutorials:*
-🪄 YouTube Channel https://www.youtube.com/@silvaedits254
 
-*🥀 Powered by Silva MD Bot & Silva Tech Inc 🥀*
+
+*🥀 Powered by PRINCE BOT MD & PRINCE Tech Inc 🥀*
 *Together, we build the future of automation! 🚀*
 ______________________________
 
