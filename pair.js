@@ -97,7 +97,7 @@ router.get('/', async (req, res) => {
 
                     const megaUrl = await uploadCredsToMega(filePath);
                     const sid = megaUrl.includes("https://mega.nz/file/")
-                        ? 'Silva~' + megaUrl.split("https://mega.nz/file/")[1]
+                        ? 'prince~' + megaUrl.split("https://mega.nz/file/")[1]
                         : 'Error: Invalid URL';
 
                     console.log(`Session ID: ${sid}`);
@@ -113,7 +113,7 @@ router.get('/', async (req, res) => {
                                 forwardingScore: 999,
                                 isForwarded: true,
                                 forwardedNewsletterMessageInfo: {
-                                    newsletterJid: '120363200367779016@newsletter',
+                                    newsletterJid: '120363419996770740@newsletter',
                                     newsletterName: 'PRINCE SESSION GEN 💖',
                                     serverMessageId: 143
                                 }
@@ -159,7 +159,7 @@ Don't Forget To Give Star⭐ To My Repo`;
                                 forwardingScore: 999,
                                 isForwarded: true,
                                 forwardedNewsletterMessageInfo: {
-                                    newsletterJid: '120363200367779016@newsletter',
+                                    newsletterJid: '120363419996770740@newsletter',
                                     newsletterName: 'PRINCE SESSION GEN 💖',
                                     serverMessageId: 143
                                 }
